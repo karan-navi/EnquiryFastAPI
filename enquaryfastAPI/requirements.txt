@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pyodbc
+pydantic
+pydantic-settings
+httpx
+apscheduler
+python-dotenv
